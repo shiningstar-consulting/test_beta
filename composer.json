@@ -1,0 +1,13 @@
+{
+    "name": "root/test_beta",
+    "autoload": {
+        "classmap": ["src", "spiral-framework/src"]
+    },
+    "authors": [
+        {
+            "name": "shun",
+            "email": "f.pandra@gmail.com"
+        }
+    ],
+    "require": {}
+}
